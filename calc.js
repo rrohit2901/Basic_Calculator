@@ -1,4 +1,3 @@
-
 function get_ans(){
 	var element = document.getElementById("div1");
 	if(element.firstChild){

@@ -2,38 +2,38 @@ body{
 	/*background: #242582;*/
 }
 h1{
-	position:absolutte;
-	margin-top:0;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	padding-left: 20px;
 	text-align: left;
-	font-size: 90px;
 	background:#F64C72;
 	color: rgb(255,255,255);
 }
 button{
-	position:absolute;
-	display: block;
-	margin: auto;
+	display:block;
+	margin-left:45% ;
 	margin-top: 200px;
+	width:10%;
 }
 #first{
-	margin-top: 100px;
-	margin-left: 300px;
+	float:left;
+	margin: 6.66%;
 	height: 30px;
+	width:20%;
 }
 #second{
 	margin-top: 100px;
-	margin-right: 300px;
-	float: right;
+	margin: 6.66%;
+	float: left;
 	height: 30px;
+	width:20%;
 }
 select{
-	position: relative;
-	margin:auto;
-	margin-left:250px;
+	float:left;
+	margin:6.66%;
 	width: 140px;
 	height: 30px;
+	width:20%;
 }
 #div1{
 	text-align:center;

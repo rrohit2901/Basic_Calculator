@@ -41,3 +41,9 @@ select{
 	margin-top:50px;
 	height:40px;
 }
+#footer{
+	text-align:center;
+	margin-bottom: 0px;
+	height:100px;
+	padding-top: 15px;
+}
